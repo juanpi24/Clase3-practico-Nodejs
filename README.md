@@ -13,6 +13,8 @@ Este proyecto contiene 3 actividades prácticas relacionadas con:
 
 ### Actividad 1: Manejo de Parámetros de Ruta
 
+**Ubicación:** `Actividad-1/`
+
 Demuestra el uso de **parámetros de ruta dinámicas** en Express.
 
 **Ruta disponible:**
@@ -32,7 +34,7 @@ El servidor estará disponible en `http://localhost:3000`
 
 ### Actividad 2: Manejo de Parámetros de Consulta
 
-**Ubicación:** 
+**Ubicación:** `Actividad-2/`
 
 Demuestra el uso de **parámetros de consulta** (query parameters) en Express.
 
@@ -69,3 +71,5 @@ Todas las actividades y ejemplos usan las siguientes dependencias:
 
 - **Express.js** - Framework web para Node.js
 - **Node.js File System (fs)** - Módulo nativo para manejo de archivos
+
+Para instalar las dependencias de **Express** tras descargar el proyecto, abre una terminal en la carpeta raíz del proyecto y ejecuta `npm install`. Este comando lee el archivo `package.json` e instala automáticamente todas las librerías necesarias, incluyendo Express, en una carpeta `node_modules`.
